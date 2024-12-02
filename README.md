@@ -56,6 +56,8 @@ The primary objectives of this project are:
 **Open in Power BI Desktop:** Load the .pbix file to explore the interactive dashboard.
 **Interact with Visuals** Use slicers and filters to explore city-wise AQI, pollutant breakdowns, and time-series trends.  
 
+📊 **Dashboard Preview**
+![Dashboard Screenshot](https://github.com/JanviDhonde/Powerbi-AirQuality-Dashboard/blob/main/AirQuality%20Dashboard.png)  
 
 📈 **Key DAX Measures**  
 
